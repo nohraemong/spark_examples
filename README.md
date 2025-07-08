@@ -27,13 +27,16 @@ GDELT(Global Database of Events, Language, and Tone) 이벤트 데이터를 처�
 s3://output-path/gdelt_summary/part-00000-xxx.csv
 
 포맷:
+```
 Year    CountryCode    CAMEO_Verb    num_events
 2017    US            PROTEST        127612
 2017    US            EXHIBIT FORCE  30865
 2017    IN            REDUCE        17689
-...
+```
 
 ### 2. Full Output
+
+```
 gdelt_full_output/
 ├── year=2017/
 │   ├── countrycode=AA/
@@ -41,7 +44,7 @@ gdelt_full_output/
 │   │   │   └── part-00000-xxx.snappy.parquet
 │   │   ├── cameo_verb=ASSAULT/
 │   │   │   └── part-00000-xxx.snappy.parquet
-...
+```
 
 
 참고 문서
