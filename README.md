@@ -1,7 +1,7 @@
 # GDELT Event Data Processor
 
 ## 프로젝트 개요
-GDELT(Global Database of Events, Language, and Tone) 이벤트 데이터를 처리하여 이벤트 분석 및 요약 정보를 생성하는 Spark 애플리케이션입니다.
+GDELT(Global Database of Events, Language, and Tone) 이벤트 데이터를 처리하여 이벤트 분석 및 요약 정보를 생성하는 Spark 애플리케이션
 
 ## 주요 기능
 1. **데이터 중복 제거**
