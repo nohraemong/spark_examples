@@ -1,0 +1,22 @@
+cameo_dict = {
+        "01": "MAKE STATEMENT",
+        "02": "APPEAL",
+        "03": "EXPRESS INTENT",
+        "04": "CONSULT",
+        "05": "ENGAGE",
+        "06": "COOPERATE",
+        "07": "PROVIDE AID",
+        "08": "YIELD",
+        "09": "INVESTIGATE",
+        "10": "DEMAND",
+        "11": "DISAPPROVE",
+        "12": "REJECT",
+        "13": "THREATEN",
+        "14": "PROTEST",
+        "15": "EXHIBIT FORCE",
+        "16": "REDUCE RELATIONS",
+        "17": "COERCE",
+        "18": "ASSAULT",
+        "19": "FIGHT",
+        "20": "USE UNCONVENTIONAL MASS VIOLENCE"
+    }
