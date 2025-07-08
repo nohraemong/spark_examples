@@ -19,7 +19,7 @@ GDELT(Global Database of Events, Language, and Tone) 이벤트 데이터를 처�
    - Snappy 압축 Parquet 파일 형식
    - Year, Country Code, CAMEO Verb 기준 파티셔닝
    - 파티션당 단일 파일 구조
-   - Hive 동적 파티셔닝 지원
+   - Hive 동적 파티셔닝
 
 ## 출력 구조
 
